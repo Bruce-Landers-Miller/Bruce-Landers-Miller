@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bruce-Landers-Miller
 - 👀 I’m interested in Web Development, Combat Sports, and General Bafoonary.
 - 🌱 I’m currently learning HTML, CSS, & JavaScript.
-- 💞️ I’m looking to collaborate on a fun, objective driven, web project. 
+- 💞️ I’m looking to collaborate on a fun, objective driven, web projects. 
 - 📫 How to reach @ Bruce.landersmiller@gmail.com or if therer's a way to DM on GitHub...?
 
 
